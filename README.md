@@ -10,6 +10,7 @@ Things I am using
 - Theme: [Monokai](https://github.com/microsoft/vscode/blob/main/extensions/theme-monokai/themes/monokai-color-theme.json)
 - Icons: [Carbon Icons](https://github.com/antfu/vscode-icons-carbon)
 - File Nesting: [File Nesting Config](https://github.com/antfu/vscode-file-nesting-config)
+- Formatting & Linting: [ESLint](https://eslint.org/) with [@damisparks/eslint-config](https://github.com/damisparks/eslint-config)
 
 ## CLI
 
